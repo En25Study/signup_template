@@ -16,5 +16,3 @@ body:
       placeholder: 최대한 세분화 해서 적어주세요!
     validations:
       required: true
-  - type: textarea
-
